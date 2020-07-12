@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/msa2020-devops/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/sunnyfeng17.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/msa2020-devops/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
